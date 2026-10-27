@@ -494,6 +494,14 @@
     },
     "contact": { "title": "Давайте общаться", "description": "Открыт к обсуждению проектов, идей и возможностей для сотрудничества. Напишите мне!", "contact": "Связаться", "projects": "Посмотреть проекты", "built": "2026 © Создано с React", "credit": "Эффекты React Bits" },
     "accessibility": { "skip": "Перейти к основному содержимому", "close": "Закрыть" },
+    "ui": {
+      "brandSubtitle": "Творческие проекты", "home": "Главная", "about": "Обо мне", "projects": "Проекты", "menu": "МЕНЮ", "navigation": "НАВИГАЦИЯ", "social": "СОЦСЕТИ", "toggleTheme": "Переключить цветовую тему", "projectCards": "Карточки проектов",
+      "aboutLabel": "ОБО МНЕ / СКОРО", "aboutTitleStart": "Обо", "aboutTitleEnd": "мне", "profileSoon": "ИНФОРМАЦИЯ О ПРОФИЛЕ СКОРО", "aboutIntro": "Здесь появится краткий рассказ обо мне.", "scrollEducation": "К ОБРАЗОВАНИЮ", "hello": "Привет!", "locationSoon": "МЕСТОЖИТЕЛЬСТВО СКОРО", "aboutMarker": "ОБО МНЕ / 01", "aboutMore": "ОБО МНЕ — ПОДРОБНОСТИ СКОРО",
+      "background": "02 / ОБРАЗОВАНИЕ", "education": "Образование", "institution": "Учебное заведение {{number}}", "datesSoon": "ДАТЫ СКОРО", "degreeSoon": "Информация об образовании появится позже.", "previousEducation": "Предыдущая карточка образования", "nextEducation": "Следующая карточка образования", "educationCounter": "ВЫБЕРИТЕ ПУНКТ ДЛЯ ПРОСМОТРА ПОДРОБНОСТЕЙ", "educationCard": "ОБРАЗОВАНИЕ / {{number}}", "documentPreview": "ПРЕДПРОСМОТР ДОКУМЕНТА",
+      "contactSoon": "КОНТАКТНЫЕ ДАННЫЕ СКОРО", "getInTouch": "Связаться", "contactPlaceholder": "Контактная информация и короткое сообщение появятся позже.", "writeToMe": "Написать мне", "github": "GitHub", "instagram": "Instagram", "youtube": "YouTube",
+      "projectsLabel": "ИЗБРАННЫЕ РАБОТЫ / СКОРО", "scrollExplore": "ПРОКРУТИТЕ, ЧТОБЫ ПОСМОТРЕТЬ", "projectDetailsSoon": "ОПИСАНИЯ ПРОЕКТОВ СКОРО", "projectTitle": "Проект {{number}}", "projectPlaceholder": "Описание проекта появится позже.", "projectComingSoon": "СКОРО", "preview": "ПРЕДПРОСМОТР / {{number}}", "overview": "ОБЗОР", "analysis": "АНАЛИЗ", "insights": "ВЫВОДЫ", "reports": "ОТЧЁТЫ", "previewPlaceholder": "ЗДЕСЬ БУДЕТ ПРЕДПРОСМОТР ПРОЕКТА",
+      "contactEyebrow": "БУДЕМ НА СВЯЗИ", "contactTitleStart": "Есть проект", "contactTitleEnd": "на примете?", "footerPlaceholder": "Подробности появятся позже.", "portfolio": "Портфолио", "elsewhere": "ССЫЛКИ", "writing": "ЗАПИСИ", "language": "ЯЗЫК", "backToTop": "НАВЕРХ ↑"
+    },
     "pageMeta": { "aboutTitle": "Обо мне", "aboutDescription": "Обо мне, моём образовании и способах связи.", "projectsTitle": "Проекты", "projectsDescription": "Избранные работы и проекты." }
   }
 }

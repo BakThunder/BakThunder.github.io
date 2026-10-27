@@ -497,6 +497,14 @@
     },
     "contact": { "title": "Let’s connect", "description": "I’m open to discussing projects, ideas, and collaboration opportunities. Get in touch!", "contact": "Contact", "projects": "See projects", "built": "2026 © Built with React", "credit": "React Bits effects" },
     "accessibility": { "skip": "Skip to main content", "close": "Close" },
+    "ui": {
+      "brandSubtitle": "Creative work", "home": "Home", "about": "About", "projects": "Projects", "menu": "MENU", "navigation": "NAVIGATION", "social": "SOCIAL", "toggleTheme": "Toggle color theme", "projectCards": "Project cards",
+      "aboutLabel": "ABOUT / COMING SOON", "aboutTitleStart": "About", "aboutTitleEnd": "Me", "profileSoon": "PROFILE DETAILS COMING SOON", "aboutIntro": "A short introduction will be added here later.", "scrollEducation": "SCROLL TO EDUCATION", "hello": "Hello!", "locationSoon": "LOCATION COMING SOON", "aboutMarker": "ABOUT / 01", "aboutMore": "ABOUT — MORE DETAILS COMING SOON",
+      "background": "02 / BACKGROUND", "education": "Education", "institution": "Institution name {{number}}", "datesSoon": "DATES COMING SOON", "degreeSoon": "Education details will be added later.", "previousEducation": "Previous education card", "nextEducation": "Next education card", "educationCounter": "SELECT AN ITEM TO VIEW DETAILS", "educationCard": "EDUCATION / {{number}}", "documentPreview": "DOCUMENT PREVIEW",
+      "contactSoon": "CONTACT DETAILS COMING SOON", "getInTouch": "Get in touch", "contactPlaceholder": "Contact information and a short message will be added later.", "writeToMe": "Write to me", "github": "GitHub", "instagram": "Instagram", "youtube": "YouTube",
+      "projectsLabel": "SELECTED WORK / COMING SOON", "scrollExplore": "SCROLL TO EXPLORE", "projectDetailsSoon": "PROJECT DETAILS COMING SOON", "projectTitle": "Project Title {{number}}", "projectPlaceholder": "Project details will be added later.", "projectComingSoon": "COMING SOON", "preview": "PREVIEW / {{number}}", "overview": "OVERVIEW", "analysis": "ANALYSIS", "insights": "INSIGHTS", "reports": "REPORTS", "previewPlaceholder": "PROJECT PREVIEW PLACEHOLDER",
+      "contactEyebrow": "GET IN TOUCH", "contactTitleStart": "Have a project", "contactTitleEnd": "in mind?", "footerPlaceholder": "More details coming soon.", "portfolio": "Portfolio", "elsewhere": "ELSEWHERE", "writing": "WRITING", "language": "LANGUAGE", "backToTop": "BACK TO TOP ↑"
+    },
     "pageMeta": { "aboutTitle": "About", "aboutDescription": "About me, my education, and how to get in touch.", "projectsTitle": "Projects", "projectsDescription": "Selected work and projects." }
   }
 }

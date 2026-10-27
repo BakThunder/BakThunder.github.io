@@ -495,6 +495,14 @@
     },
     "contact": { "title": "Байланысқа шығайық", "description": "Жобалар, идеялар және ынтымақтастық мүмкіндіктерін талқылауға дайынмын. Хабарласыңыз!", "contact": "Хабарласу", "projects": "Жобаларды көру", "built": "2026 © React арқылы жасалды", "credit": "React Bits әсерлері" },
     "accessibility": { "skip": "Негізгі мазмұнға өту", "close": "Жабу" },
+    "ui": {
+      "brandSubtitle": "Шығармашылық жұмыстар", "home": "Басты бет", "about": "Мен туралы", "projects": "Жобалар", "menu": "МӘЗІР", "navigation": "НАВИГАЦИЯ", "social": "ӘЛЕУМЕТТІК ЖЕЛІЛЕР", "toggleTheme": "Түс тақырыбын ауыстыру", "projectCards": "Жоба карточкалары",
+      "aboutLabel": "МЕН ТУРАЛЫ / ЖАҚЫНДА", "aboutTitleStart": "Мен", "aboutTitleEnd": "туралы", "profileSoon": "ПРОФИЛЬ ТУРАЛЫ АҚПАРАТ ЖАҚЫНДА", "aboutIntro": "Мен туралы қысқаша мәлімет кейінірек қосылады.", "scrollEducation": "БІЛІМГЕ ӨТУ", "hello": "Сәлем!", "locationSoon": "ТҰРҒАН ЖЕРІ ЖАҚЫНДА", "aboutMarker": "МЕН ТУРАЛЫ / 01", "aboutMore": "МЕН ТУРАЛЫ — ТОЛЫҒЫРАҚ АҚПАРАТ ЖАҚЫНДА",
+      "background": "02 / БІЛІМ", "education": "Білім", "institution": "Оқу орны {{number}}", "datesSoon": "КҮНДЕРІ ЖАҚЫНДА", "degreeSoon": "Білім туралы ақпарат кейінірек қосылады.", "previousEducation": "Алдыңғы білім карточкасы", "nextEducation": "Келесі білім карточкасы", "educationCounter": "ТОЛЫҒЫРАҚ АҚПАРАТТЫ КӨРУ ҮШІН ТАРМАҚТЫ ТАҢДАҢЫЗ", "educationCard": "БІЛІМ / {{number}}", "documentPreview": "ҚҰЖАТТЫҢ АЛДЫН АЛА КӨРІНІСІ",
+      "contactSoon": "БАЙЛАНЫС АҚПАРАТЫ ЖАҚЫНДА", "getInTouch": "Байланысу", "contactPlaceholder": "Байланыс ақпараты мен қысқаша хабарлама кейінірек қосылады.", "writeToMe": "Маған жазыңыз", "github": "GitHub", "instagram": "Instagram", "youtube": "YouTube",
+      "projectsLabel": "ТАҢДАЛҒАН ЖҰМЫСТАР / ЖАҚЫНДА", "scrollExplore": "КӨРУ ҮШІН ТӨМЕН ЖЫЛЖЫТЫҢЫЗ", "projectDetailsSoon": "ЖОБА СИПАТТАМАЛАРЫ ЖАҚЫНДА", "projectTitle": "Жоба {{number}}", "projectPlaceholder": "Жоба сипаттамасы кейінірек қосылады.", "projectComingSoon": "ЖАҚЫНДА", "preview": "АЛДЫН АЛА КӨРІНІС / {{number}}", "overview": "ШОЛУ", "analysis": "ТАЛДАУ", "insights": "ҚОРЫТЫНДЫ", "reports": "ЕСЕПТЕР", "previewPlaceholder": "ЖОБАНЫҢ АЛДЫН АЛА КӨРІНІСІ",
+      "contactEyebrow": "БАЙЛАНЫСҚА ШЫҒАЙЫҚ", "contactTitleStart": "Жобаңыз", "contactTitleEnd": "бар ма?", "footerPlaceholder": "Толық ақпарат кейінірек қосылады.", "portfolio": "Портфолио", "elsewhere": "СІЛТЕМЕЛЕР", "writing": "ЖАЗБАЛАР", "language": "ТІЛ", "backToTop": "ЖОҒАРЫҒА ↑"
+    },
     "pageMeta": { "aboutTitle": "Мен туралы", "aboutDescription": "Мен, білімім және байланыс жолдары туралы.", "projectsTitle": "Жобалар", "projectsDescription": "Таңдалған жұмыстар мен жобалар." }
   }
 }
