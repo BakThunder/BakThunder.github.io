@@ -21,7 +21,7 @@ messaging.onBackgroundMessage((payload) => {
   const body = payload.notification?.body ?? payload.data?.body ?? ''
   const options = {
     body,
-    icon: '/app-icon.png',
+    icon: '/app-icon.webp',
     data: payload.data,
     vibrate: [200, 100, 200, 100, 200, 100, 200],
     badge: '/icon-badge.png',
