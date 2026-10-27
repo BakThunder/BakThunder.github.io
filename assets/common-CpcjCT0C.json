@@ -466,5 +466,37 @@
       "multipleAvatarFiles": "Upload only one avatar file.",
       "invalidFile": "Invalid file."
     }
+  },
+  "portfolio": {
+    "language": { "label": "Site language", "ru": "Русский", "kk": "Қазақша", "en": "English" },
+    "loader": { "continue": "Click anywhere to continue" },
+    "nav": { "about": "About", "work": "Work", "contact": "Contact" },
+    "hero": { "building": "BUILDING", "great": "GREAT", "things": "THINGS", "since": "SINCE", "year": "2022", "sound": "SOUND ON", "portrait": "Portrait of Bakdaulet" },
+    "social": { "label": "Social media links", "linkedin": "LinkedIn — link not added yet" },
+    "aboutHero": { "label": "ABOUT ME", "title": "A student at EKTU exploring mathematical modeling, data analysis, and machine learning." },
+    "whatIDo": { "label": "WHAT I DO", "titleFirst": "WHAT", "titleLast": "I DO", "subtitle": "I explore data, build models, and create web projects." },
+    "skillset": {
+      "subtitle": "SKILLS", "titleMain": "TOOLS &", "titleAccent": "CAPABILITIES", "learning": "Currently learning",
+      "categories": { "sk-1": "DATA & MACHINE LEARNING", "sk-2": "MATH & MODELING", "sk-3": "DATABASES", "sk-4": "WEB & TOOLS", "sk-5": "AI & LANGUAGES" },
+      "skills": { "предобработка данных": "Data preprocessing", "PCA и снижение размерности": "Dimensionality reduction", "ассоциативные правила (Apriori)": "Association rules", "feature engineering": "Feature engineering", "математическое моделирование": "Mathematical modeling", "численная оптимизация": "Numerical optimization", "линейное программирование": "Linear programming", "теория принятия решений": "Decision theory", "статистика": "Statistics", "алгоритмы": "Algorithms", "триггеры": "Triggers", "резервное копирование и восстановление": "Backup and recovery", "промпт-инжиниринг": "Prompt engineering", "разработка с помощью ИИ": "AI-assisted development", "работа с LLM API": "Working with LLM APIs", "казахский": "Kazakh", "русский": "Russian" }
+    },
+    "career": {
+      "experience": { "subtitle": "EXPERIENCE", "main": "CAREER &", "accent": "EDUCATION", "items": {
+        "exp-1": { "title": "D. Serikbayev EKTU", "description": "Major: Mathematical and Computer Modeling (Ust-Kamenogorsk). Studies in advanced mathematics, probability theory, optimization methods, and machine learning algorithms.", "tags": ["Mathematical modeling", "EKTU", "Algorithms", "Ust-Kamenogorsk"] },
+        "exp-2": { "title": "Universiti Teknologi MARA", "description": "Academic mobility and knowledge exchange program in Malaysia. Research and practice in systems analysis and modern programming.", "tags": ["Academic mobility", "Malaysia", "UiTM", "Data science"] },
+        "exp-3": { "title": "India Republic Day 2026", "description": "Participation in an international event, exchange of experience, and presentation of research projects.", "tags": ["International experience", "India", "Presentations", "Projects"] }
+      } },
+      "projects": { "subtitle": "SELECTED WORK", "main": "FEATURED", "accent": "PROJECTS", "description": "Experiments, collaborations, and projects I am especially proud of.", "soon": "Description coming soon", "view": "VIEW PROJECT", "github": "GITHUB", "close": "Close" }
+    },
+    "aboutPage": {
+      "title": "Hello! I’m", "name": "Bakdaulet", "paragraph1": "I am a student of Mathematical and Computer Modeling. I am interested in data analysis, machine learning, and web application development.", "paragraph2": "In academic and personal projects, I apply mathematical methods and programming to solve practical problems.", "paragraph3": "I am currently developing my data analysis and software skills by building projects and learning modern tools.",
+      "experience": "Experience", "education": "Education", "skills": "What I do", "stack": "Technology", "reset": "Reset layout", "close": "Close", "previous": "Previous image", "next": "Next image",
+      "educationEntries": [{"school":"D. Serikbayev EKTU","degree":"Mathematical and Computer Modeling","period":"2022–2026"},{"school":"Universiti Teknologi MARA","degree":"Academic mobility","period":"2024"}],
+      "experienceEntries": [{"company":"Academic and personal projects","role":"Data analysis and development","period":"2022 – present"}],
+      "skillsList": ["Data analysis","Mathematical modeling","Machine learning","Web development","Python and SQL","Algorithms","Statistics","Data visualization","Problem solving"]
+    },
+    "contact": { "title": "Let’s connect", "description": "I’m open to discussing projects, ideas, and collaboration opportunities. Get in touch!", "contact": "Contact", "projects": "See projects", "built": "2026 © Built with React", "credit": "React Bits effects" },
+    "accessibility": { "skip": "Skip to main content", "close": "Close" },
+    "pageMeta": { "aboutTitle": "About", "aboutDescription": "About me, my education, and how to get in touch.", "projectsTitle": "Projects", "projectsDescription": "Selected work and projects." }
   }
 }
